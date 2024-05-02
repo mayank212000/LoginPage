@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(80, 80, 238);
+}
+
+h2 {
+    text-align: center;
+    font-size: 32px;
+
+}
+
+form {
+    width: 400px;
+    height: 622px;
+    padding: 35px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 35px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+.inputbox {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.btn {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin-top: 115px;
+    border: 1px;
+    background-color: rgb(138 243 160);
+    border-radius: 1%;
+    width: 100%;
+
+}
+
+.inbox {
+    width: 100%;
+    margin-top: 70px;
+    padding: 10px;
+    border: 0px;
+    border-bottom: 1px solid rgb(99, 95, 95);
+}
+
+.fp {
+    margin-top: 25px;
+    text-decoration-line: none;
+    text-align: end;
+}
